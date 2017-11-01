@@ -1,7 +1,5 @@
-# titan-tracker
-
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+# TitanTracker
+TitanTracker is aimed at providing a easy location for users to add and consume information and to provide a central directory of personnel within the organization. Admin users will be able to add new content and update schedule information that will then alert users within the organization. Basic users will be able to enter the application and see information or look up.
 
 ## Prerequisites
 
